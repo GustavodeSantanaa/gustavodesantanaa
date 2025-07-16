@@ -12,16 +12,12 @@
 ### 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
 </p>
 
 ---
