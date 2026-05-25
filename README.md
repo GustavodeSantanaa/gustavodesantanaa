@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
   <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
 </p>
 
 ---
