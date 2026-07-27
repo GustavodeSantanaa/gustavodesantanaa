@@ -2,44 +2,35 @@
 
 # Gustavo de Santana Lima
 
-### Software Engineer | Backend Engineering | Cloud | Observability
+### Software Engineer | Backend • Cloud • Observability
 
-Desenvolvendo soluções escaláveis com foco em **Java**, **Spring Boot**, **AWS**, **Observabilidade** e **Cloud Computing**.
+Construindo soluções escaláveis utilizando **Java**, **Spring Boot**, **AWS** e boas práticas de Engenharia de Software.
 
-<a href="https://www.linkedin.com/in/gustavo-de-santana-lima-319661216/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/gustavo-de-santana-lima-319661216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:santana.dev@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:santana.dev@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 Sobre
 
-Sou **Engenheiro de Software** com experiência no desenvolvimento e evolução de aplicações para ambientes bancários de missão crítica.
+Engenheiro de Software com experiência no desenvolvimento e evolução de aplicações para ambientes bancários de missão crítica.
 
-Minha atuação concentra-se em **Backend Engineering**, **Cloud Computing** e **Observabilidade**, trabalhando com APIs REST, microsserviços, infraestrutura em AWS, monitoramento de aplicações críticas e resolução de incidentes em produção.
+Atuação em **Backend Engineering**, **Cloud Computing** e **Observabilidade**, trabalhando com **Java**, **Spring Boot**, **AWS**, **Terraform**, **Datadog**, APIs REST, monitoramento de aplicações críticas e resolução de incidentes em produção.
 
-Atualmente estou aprofundando meus conhecimentos através do desenvolvimento do **API Shield**, um projeto focado em Segurança, Observabilidade e Engenharia Backend.
-
----
-
-# 🚀 Atualmente
-
-- 🔨 Desenvolvendo o **API Shield**
-- ☁️ Aprofundando conhecimentos em AWS
-- 📈 Estudando Observabilidade
-- ⚙️ Evoluindo práticas de DevOps
-- 🏗️ Aprimorando Arquitetura Backend
-- 📚 Estudando Sistemas Distribuídos
+Atualmente desenvolvendo o **API Shield**, um projeto voltado para Segurança, Observabilidade e Engenharia Backend.
 
 ---
 
-# ⭐ Projeto em Destaque
+# ⭐ Projeto Principal
 
 ## API Shield
 
@@ -54,7 +45,7 @@ Plataforma desenvolvida para aplicar conceitos modernos de Backend Engineering, 
 - Terraform
 - AWS
 
-### Objetivos
+### Funcionalidades
 
 - APIs REST
 - Rate Limiting
@@ -62,44 +53,30 @@ Plataforma desenvolvida para aplicar conceitos modernos de Backend Engineering, 
 - Observabilidade
 - Métricas
 - Monitoramento
-- Cloud Native
 
-> Em constante evolução.
+> 🚧 Projeto em desenvolvimento contínuo.
 
 ---
 
 # 🛠️ Tecnologias
 
-## Backend
+### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java"/>
-
 <img src="https://skillicons.dev/icons?i=spring"/>
-
 <img src="https://skillicons.dev/icons?i=python"/>
-
 <img src="https://skillicons.dev/icons?i=postgres"/>
-
 </p>
 
----
-
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
 <img src="https://skillicons.dev/icons?i=terraform"/>
-
+<img src="https://skillicons.dev/icons?i=docker"/>
 <img src="https://skillicons.dev/icons?i=git"/>
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 </p>
 
 ---
@@ -123,50 +100,6 @@ Plataforma desenvolvida para aplicar conceitos modernos de Backend Engineering, 
 - Incident Response
 - Sistemas Distribuídos
 - Engenharia de Software
-
----
-
-# 🎯 Objetivos para 2026
-
-- Construir um portfólio sólido de Engenharia Backend
-- Evoluir o API Shield para um projeto de referência
-- Aprofundar conhecimentos em Arquitetura de Software
-- Fortalecer competências em Cloud AWS
-- Evoluir em DevOps e Observabilidade
-- Consolidar conhecimentos em Site Reliability Engineering (SRE)
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=gustavodesantanaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodesantanaa&layout=compact&theme=radical"/>
-
-</div>
-
----
-
-# 📫 Contato
-
-- 📧 santana.dev@gmail.com
-- 💼 www.linkedin.com/in/gustavo-de-santana-lima-319661216
-
----
-
-<div align="center">
-
-### Obrigado pela visita!
-
-Sempre aberto para conversar sobre **Backend**, **Cloud**, **Observabilidade** e **Engenharia de Software**.
-
-</div>
 
 ---
 
